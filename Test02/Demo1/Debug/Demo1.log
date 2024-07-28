@@ -1,0 +1,7 @@
+﻿  TinhNguyenVien.cpp
+d:\project\ctdl&gt\ctdl-gt_nhom11\test02\demo1\tinhnguyenvien.cpp(119): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+d:\project\ctdl&gt\ctdl-gt_nhom11\test02\demo1\tinhnguyenvien.cpp(207): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+d:\project\ctdl&gt\ctdl-gt_nhom11\test02\demo1\tinhnguyenvien.cpp(207): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+d:\project\ctdl&gt\ctdl-gt_nhom11\test02\demo1\tinhnguyenvien.cpp(207): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+Debug\TinhNguyenVien.obj : warning LNK4042: object specified more than once; extras ignored
+  Demo1.vcxproj -> D:\project\CTDL&GT\CTDL-GT_nhom11\Test02\Debug\Demo1.exe
